@@ -17,8 +17,8 @@
 ### 👤 About Me
 
 - 🎓 **本科在读** 
-- 🐍 **后端**: Python (FastAPI) + Go(Gin)
-- 🌐 **前端**: HTML/CSS/JS, Vue&Next.js，
+- 🐍 **后端**: Python (FastAPI) + Go(Gin) + kotlin
+- 🌐 **前端**: HTML/CSS/JS, Vue&Next.js，jetpack compose
 - 🐧 **日用**: Arch Linux 
 - 📐 **信条**: 先理解原理，再动手实现
 
@@ -37,7 +37,7 @@
 
 ### 🛠️ Quick Stack
 
-[![All Skills](https://skillicons.dev/icons?i=py,go,cpp,ts,js,html,css,bash,fastapi,react,tailwind,linux,arch,docker,nginx,cloudflare,sqlite,redis,neovim,vscode,git&perline=7&theme=dark)](https://skillicons.dev)
+[![All Skills](https://skillicons.dev/icons?i=py,go,cpp,kotlin,androidstudio,ts,js,html,css,bash,fastapi,react,tailwind,linux,arch,docker,nginx,cloudflare,sqlite,redis,neovim,vscode,git&perline=7&theme=dark)](https://skillicons.dev)
 
 </td>
 </tr>
@@ -49,8 +49,8 @@
 
 | Category | Icons |
 |:---:|---|
-| **Languages** | [![Languages](https://skillicons.dev/icons?i=py,go,cpp,c,ts,html,css,bash&perline=8&theme=dark)](https://skillicons.dev) |
-| **Frameworks** | [![Frameworks](https://skillicons.dev/icons?i=fastapi,react,tailwind,nodejs&perline=4&theme=dark)](https://skillicons.dev) |
+| **Languages** | [![Languages](https://skillicons.dev/icons?i=py,go,kotlin,cpp,c,ts,html,css,bash&perline=5&theme=dark)](https://skillicons.dev) |
+| **Frameworks** | [![Frameworks](https://skillicons.dev/icons?i=fastapi,react,androidstudio,tailwind,nodejs&perline=5&theme=dark)](https://skillicons.dev) |
 | **Infra & DB** | [![Infra](https://skillicons.dev/icons?i=linux,arch,docker,nginx,cloudflare,sqlite,redis&perline=8&theme=dark)](https://skillicons.dev) |
 | **Tools** | [![Tools](https://skillicons.dev/icons?i=neovim,vscode,git,bash&perline=5&theme=dark)](https://skillicons.dev) |
 
